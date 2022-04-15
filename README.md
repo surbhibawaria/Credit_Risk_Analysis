@@ -16,51 +16,51 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 #### Balanced Accuracy Score
 
-<img width="1027" alt="Screen Shot 2022-04-15 at 3 12 32 PM" src="https://user-images.githubusercontent.com/95826875/163622541-36f1d9b3-91ab-4cd1-8d08-ab83ea718f4a.png">
+
 
 #### Imbalanced Classification Report
 
-<img width="1023" alt="Screen Shot 2022-04-15 at 3 14 32 PM" src="https://user-images.githubusercontent.com/95826875/163622708-0032427e-184a-4bb1-9495-7d7488674f4f.png">
+
 
 - ### SMOTE Oversampling
 
 #### Balanced Accuracy Score
 
-<img width="1025" alt="Screen Shot 2022-04-15 at 3 20 39 PM" src="https://user-images.githubusercontent.com/95826875/163623246-bc4a9687-40be-43ed-b9f7-3d6819b9afb2.png">
+
 
 #### Imbalanced Classification Report
 
-<img width="1021" alt="Screen Shot 2022-04-15 at 3 20 53 PM" src="https://user-images.githubusercontent.com/95826875/163623261-054cfb5e-40e7-4f7d-839c-4c65f4d68d22.png">
+
 
 - ### Undersampling
 
 #### Balanced Accuracy Score
 
-<img width="1024" alt="Screen Shot 2022-04-15 at 3 21 51 PM" src="https://user-images.githubusercontent.com/95826875/163623347-dd9cbfa4-d497-438d-8dc4-83ecb1a8a20b.png">
+
 
 #### Imbalanced Classification Report
 
-<img width="1024" alt="Screen Shot 2022-04-15 at 3 22 05 PM" src="https://user-images.githubusercontent.com/95826875/163623351-cb0c978b-4957-4230-a520-a8ee93a1b427.png">
+
 
 - ### Combination (Over and Under) Sampling
 
 #### Balanced Accuracy Score
 
-<img width="1025" alt="Screen Shot 2022-04-15 at 3 23 06 PM" src="https://user-images.githubusercontent.com/95826875/163623478-730df536-6b20-4c3f-964e-035182f292c2.png">
+
 
 #### Imbalanced Classification Report
 
-<img width="1026" alt="Screen Shot 2022-04-15 at 3 23 31 PM" src="https://user-images.githubusercontent.com/95826875/163623496-9daa7720-bcc9-47b2-8236-63a7646cb565.png">
+
 
 - ### Balanced Random Forest Classifier
 
 #### Balanced Accuracy Score
 
-<img width="1025" alt="Screen Shot 2022-04-15 at 4 00 44 PM" src="https://user-images.githubusercontent.com/95826875/163626609-9d711274-80f8-461d-95ad-42e11ac2b7cb.png">
+
 
 #### Imbalanced Classification Report
 
-<img width="1026" alt="Screen Shot 2022-04-15 at 4 00 58 PM" src="https://user-images.githubusercontent.com/95826875/163626620-e53dcee2-3193-4855-af5e-90624ffdffe2.png">
+
 
 - ### Easy Ensemble AdaBoost Classifier
 
