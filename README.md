@@ -56,21 +56,19 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 #### Balanced Accuracy Score
 
-<img width="1023" alt="Screen Shot 2022-04-15 at 3 25 07 PM" src="https://user-images.githubusercontent.com/95826875/163623599-dc88a653-dd25-4c34-af13-c913f3eb4ffe.png">
+<img width="1025" alt="Screen Shot 2022-04-15 at 4 00 44 PM" src="https://user-images.githubusercontent.com/95826875/163626609-9d711274-80f8-461d-95ad-42e11ac2b7cb.png">
 
 #### Imbalanced Classification Report
 
-<img width="1026" alt="Screen Shot 2022-04-15 at 3 25 20 PM" src="https://user-images.githubusercontent.com/95826875/163623620-1a725752-e6e8-4b1f-9e40-8b0770e664f6.png">
+<img width="1026" alt="Screen Shot 2022-04-15 at 4 00 58 PM" src="https://user-images.githubusercontent.com/95826875/163626620-e53dcee2-3193-4855-af5e-90624ffdffe2.png">
 
 - ### Easy Ensemble AdaBoost Classifier
 
 #### Balanced Accuracy Score
 
-<img width="1023" alt="Screen Shot 2022-04-15 at 3 26 05 PM" src="https://user-images.githubusercontent.com/95826875/163623702-46cf1ec7-c483-49c8-b76b-18f657c82ec0.png">
-
 #### Imbalanced Classification Report
 
-<img width="1020" alt="Screen Shot 2022-04-15 at 3 26 20 PM" src="https://user-images.githubusercontent.com/95826875/163623717-cd1199c0-7d2c-4833-9863-de86bd427ff6.png">
+
 
 ## Summary
 
