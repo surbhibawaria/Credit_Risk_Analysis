@@ -104,7 +104,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Summary
 
-The six machine learning models presented here are resampled using Oversampling, SMOTE Oversampling, Undersampling, and Combination of both to determine which model is best for predicting the high risk loans. The other two models used ensemble classifiers, Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier to predict credit risk. Based on the results, models as per their high risk scores in descending order are Easy Ensemble Classifier, Balanced Random Classifier, SMOTE, SMOOTEEN
+The six machine learning models presented here are resampled using Oversampling, SMOTE Oversampling, Undersampling, and Combination of both to determine which model is best for predicting the high risk loans. The other two models used ensemble classifiers, Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier to predict credit risk. Based on the results, models as per their high risk scores in descending order are EasyEnsembleClassifier, BalancedRandomClassifier, RandomOverSampler, SMOTE, SMOOTEEN, and then ClusterCentroids.
 
 Among all the other machine learning models, Easy Ensemble Classifier model yielded the best results and hence clearly the recommended model with the acuuracy score of 93%, high risk precision score of 9% and recall score of 92%. The low risk precision score is also the best with 100% and recall score of 94%. The Easy Ensemble Classifier model has the highest accuracy score and good balance of precision and recall scores making it the best machine learning model to choose for credit card analysis.
 
