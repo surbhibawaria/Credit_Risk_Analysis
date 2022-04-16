@@ -25,7 +25,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 <img width="1026" alt="Screen Shot 2022-04-15 at 4 36 46 PM" src="https://user-images.githubusercontent.com/95826875/163629753-f96907f7-9b99-41cc-b2a8-ab42df6b468d.png">
 
 - High risk precision score is 1% and recall score is 72%.
-- Low risk precion score is 100% and recall score is 59%.
+- Low risk precision score is 100% and recall score is 59%.
 
 ### SMOTE Oversampling
 
@@ -40,7 +40,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 <img width="1027" alt="Screen Shot 2022-04-15 at 4 37 50 PM" src="https://user-images.githubusercontent.com/95826875/163629825-32f93525-b5cc-49bc-a8fd-1c59a1fa814d.png">
 
 - High risk precision score is 1% and recall score is 63%.
-- Low risk precion score is 100% and recall score is 69%.
+- Low risk precision score is 100% and recall score is 69%.
 
 ### Undersampling
 
@@ -55,7 +55,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 <img width="1022" alt="Screen Shot 2022-04-15 at 4 38 47 PM" src="https://user-images.githubusercontent.com/95826875/163629903-09a0ea4b-bdc6-4bbb-9a44-2bca05f6b7f3.png">
 
 - High risk precision score is 1% and recall score is 69%.
-- Low risk precion score is 100% and recall score is 40%.
+- Low risk precision score is 100% and recall score is 40%.
 
 ### Combination (Over and Under) Sampling
 
@@ -70,7 +70,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 <img width="1021" alt="Screen Shot 2022-04-15 at 4 39 55 PM" src="https://user-images.githubusercontent.com/95826875/163629996-24cf72dc-fd71-43cd-b8c7-0ce7607eeb95.png">
 
 - High risk precision score is 1% and recall score is 72%.
-- Low risk precion score is 100% and recall score is 57%.
+- Low risk precision score is 100% and recall score is 57%.
 
 ### Balanced Random Forest Classifier
 
@@ -85,7 +85,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 <img width="1024" alt="Screen Shot 2022-04-15 at 4 42 01 PM" src="https://user-images.githubusercontent.com/95826875/163630154-62306ff5-7f7e-41f8-a9c6-cb4485b15716.png">
 
 - High risk precision score is 3% and recall score is 70%.
-- Low risk precion score is 100% and recall score is 87%.
+- Low risk precision score is 100% and recall score is 87%.
 
 ### Easy Ensemble AdaBoost Classifier
 
@@ -100,10 +100,11 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 <img width="1022" alt="Screen Shot 2022-04-15 at 4 42 45 PM" src="https://user-images.githubusercontent.com/95826875/163630215-e275adda-ef53-4887-8726-ca5bed1f65f7.png">
 
 - High risk precision score is 9% and recall score is 92%.
-- Low risk precion score is 100% and recall score is 94%.
+- Low risk precision score is 100% and recall score is 94%.
 
 ## Summary
 
 The six machine learning models presented here are resampled using Oversampling, SMOTE Oversampling, Undersampling, and Combination of both to determine which model is best for predicting the high risk loans. The other two models used ensemble classifiers, Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier to predict credit risk. 
 
-Based on the results, 
+Among all the other machine learning models, Easy Ensemble Classifier model yielded the best results and hence the recommended model with the acuuracy score of 93%, high risk precision score of 9% and recall score of 92%. The low risk precisioj is also the best with 100% precision score and recall score of 94%.
+
