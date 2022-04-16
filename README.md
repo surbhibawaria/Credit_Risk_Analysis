@@ -104,3 +104,6 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Summary
 
+The six machine learning models presented here are resampled using Oversampling, SMOTE Oversampling, Undersampling, and Combination of both to determine which model is best for predicting the high risk loans. The other two models used ensemble classifiers, Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier to predict credit risk. 
+
+Based on the results, 
